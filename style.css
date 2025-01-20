@@ -57,7 +57,7 @@
 .quote-saying-details{margin-top:0px;}
 
 
-.bg-image{background-image: url(../assets/quote-bg.png);background-repeat: no-repeat;}
+.bg-image{background-image: url(quote-bg.png);background-repeat: no-repeat;}
 
 .setelite{display: flex;width: 1200px;height: 370px;gap:175px;padding: 48px;background-color: rgb(245, 232, 232);border-radius: 24px;margin: auto;}
 
